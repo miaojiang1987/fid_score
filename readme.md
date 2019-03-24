@@ -1,0 +1,1 @@
+Create score for GANS
